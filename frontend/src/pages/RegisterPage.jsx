@@ -18,7 +18,7 @@ export default function RegisterPage() {
         {/* Form */}
         <div className="md:w-1/2 w-full p-8">
           <h2 className="text-xl font-semibold text-gray-800 mb-4">
-            สร้างบัญชี OfficeMate
+            สร้างบัญชี HosproX
           </h2>
 
           <form className="space-y-4 text-sm">

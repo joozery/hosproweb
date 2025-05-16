@@ -28,7 +28,7 @@ export default function LoginPage() {
           </div>
 
           <div className="bg-blue-50 border border-blue-100 p-4 text-xs rounded text-gray-700 leading-relaxed">
-            หากคุณเป็นสมาชิกเว็บไซต์ www.officemate.co.th และยังไม่ได้ตั้งรหัสผ่านใหม่
+            หากคุณเป็นสมาชิกเว็บไซต์ www.hosprox.co.th และยังไม่ได้ตั้งรหัสผ่านใหม่
             โปรดดำเนินการให้เรียบร้อยก่อนเลือกซื้อสินค้า คลิก <span className="text-blue-600 font-medium cursor-pointer">"ลืมรหัสผ่าน"</span>
           </div>
 
